@@ -168,16 +168,19 @@ import logging
 # print(playlist_1.song.artist.artist_name)
 
 
-from threading import Thread
-def show_products(products):
-    for i in products:
-        print(f"{i} \nPrice: $20")
+# Потоки
 
-all_prod= ['Apple', 'Bread', 'Burger']
-t1 = Thread(target=show_products, args=(all_prod,))
 
-t1.start()
-print('Hello')
+# from threading import Thread
+# def show_products(products):
+#     for i in products:
+#         print(f"{i} \nPrice: $20")
+#
+# all_prod= ['Apple', 'Bread', 'Burger']
+# t1 = Thread(target=show_products, args=(all_prod,))
+#
+# t1.start()
+# print('Hello')
 
 
 # from threading import Thread
