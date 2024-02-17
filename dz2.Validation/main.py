@@ -1,11 +1,9 @@
-# import typing
-# from typing import List, Dict
-
+from typing import List
 from pydantic import BaseModel
 
 
 class User(BaseModel):
-    name: str
+    name: List[str]
     mail: str
     address: str
 
