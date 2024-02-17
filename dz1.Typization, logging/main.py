@@ -28,7 +28,3 @@ def multiplication(a: int, b: int) -> list:
         return list_1
     except TypeError:
         logging.basicConfig(format=LOG_FORMAT, filename='logs_defMultiplication.log')
-
-
-# А как можно сделать, чтобы записывалось, какая именно функция выдаёт ошибку? Помимо указания разных лог-файлов
-
