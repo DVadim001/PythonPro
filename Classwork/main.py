@@ -319,7 +319,7 @@
 #     await asyncio.gather(*my_list)
 #
 #     end_time = time.time() - start_time
-#     print(f'Асинхронный код спарсил все страницы зв {end_time:.2f}')
+#     print(f'Асинхронный код спарсил все страницы за {end_time:.2f}')
 #
 #
 # asyncio.run(main_async())

@@ -16,7 +16,6 @@
 #     print(all_quotes)
 #
 #
-#
 # def main_sync():
 #     start_time = time.time()
 #     for i in range(1, 11):
@@ -24,7 +23,6 @@
 #         t1.start()
 #     end_time = time.time() - start_time
 #     print(f'Многопоточный код спарсил все страницы зв {end_time:.2f}')
-#
 #
 #
 # main_sync()

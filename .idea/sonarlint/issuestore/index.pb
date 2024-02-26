@@ -15,3 +15,7 @@ C
 dz5.Aiohttp/main.py,9\f\9f62713fbc0b14009adec272250ad6e548c69e03
 C
 dz6.Testint/main.py,7\c\7cbbc61a3eb6ab599f313ed3093dc32058d4063d
+A
+dz4.Async/main.py,2\3\235009bb0c07cb8b0abb81bac9dc70f039a49fae
+A
+BlockTest/main.py,6\e\6ef49694c854ebe4bb2830afd1cacfb6ac41b4a2
