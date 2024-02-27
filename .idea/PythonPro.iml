@@ -5,6 +5,7 @@
       <excludeFolder url="file://$MODULE_DIR$/dz5.Aiohttp/.venv" />
       <excludeFolder url="file://$MODULE_DIR$/dz6.Testint/.venv" />
       <excludeFolder url="file://$MODULE_DIR$/BlockTest/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/LeetCode/.venv" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

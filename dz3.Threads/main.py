@@ -7,7 +7,6 @@ import time
 def green() -> None:
     color: str = 'GREEN'
     print(color)
-    sleep
 
 
 t1: Thread = Thread(target=green)
