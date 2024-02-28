@@ -405,3 +405,5 @@
 #         self.assertEqual(func(2,4), 8, 'Ti chto')
 
 
+
+
