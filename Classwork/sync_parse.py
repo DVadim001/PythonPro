@@ -17,14 +17,12 @@ def web_sync_parce(page: int) -> None:
     print(all_quotes)
 
 
-
 def main_sync():
     start_time = time.time()
     for i in range(1, 11):
-      web_sync_parce(page=i)
+        web_sync_parce(page=i)
     end_time = time.time() - start_time
     print(f'Синхронный код спарсил все страницы зв {end_time:2f}')
-
 
 
 main_sync()

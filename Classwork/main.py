@@ -325,10 +325,6 @@
 # asyncio.run(main_async())
 
 
-
-
-
-
 # Testing, Unit-тесты
 
 
@@ -342,7 +338,6 @@
 # print(check_positive_numbers(10, 35))
 
 
-
 # def check_positive_numbers(x: int, y: int) -> int | float:
 #     assert x > 0 or y < 0, 'Число отрацательное'
 #     return x * y
@@ -351,7 +346,6 @@
 # print(check_positive_numbers(23,89))
 # print(check_positive_numbers(-10, -189))
 # print(check_positive_numbers(10, 35))
-
 
 
 # def check_positive_numbers(x: int, y: int) -> int | float:
@@ -382,14 +376,7 @@
 #         return False
 
 
-
-
-
-
 # python -m doctest -v main.py
-
-
-
 
 
 # Unit тесты
@@ -403,7 +390,3 @@
 # class TestOne(unittest.TestCase):
 #     def test_speed_up(self):
 #         self.assertEqual(func(2,4), 8, 'Ti chto')
-
-
-
-

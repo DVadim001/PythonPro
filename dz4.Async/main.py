@@ -30,17 +30,17 @@ asyncio.run(trafficlight())
 
 
 # Второй вариант
-import asyncio
-lights_list: list = ['GREEN', 'YELLOW', 'RED']
-
-
-async def trafficlight(light: list) -> None:
-    for i in light:
-        print(i)
-
-
-async def collect():
-    l = asyncio.create_task(trafficlight(lights_list))
-    await l
-
-asyncio.run(collect())
+# import asyncio
+# lights_list: list = ['GREEN', 'YELLOW', 'RED']
+#
+#
+# async def trafficlight(light: list) -> None:
+#     for i in light:
+#         print(i)
+#
+#
+# async def collect():
+#     l = asyncio.create_task(trafficlight(lights_list))
+#     await l
+#
+# asyncio.run(collect())

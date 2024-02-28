@@ -1,7 +1,6 @@
 import aiohttp
 import asyncio
 import time
-import requests
 from bs4 import BeautifulSoup
 
 url = 'https://books.toscrape.com'
