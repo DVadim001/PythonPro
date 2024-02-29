@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43dbaf0c-9e14-413a-b7c8-2d6db27ea3db" name="Changes" comment="" />
+    <list default="true" id="43dbaf0c-9e14-413a-b7c8-2d6db27ea3db" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/c/7cbbc61a3eb6ab599f313ed3093dc32058d4063d" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/c/7cbbc61a3eb6ab599f313ed3093dc32058d4063d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dz6.Testint/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/dz6.Testint/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,6 +44,11 @@
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Python tests.Doctests in main.executor": "Run",
+    "Python tests.Python tests for main.TestStringMethod.test_isupper.executor": "Run",
+    "Python tests.Python tests for main.TestStringMethod.test_split.executor": "Run",
+    "Python tests.Python tests for main.Test_func.executor": "Run",
+    "Python tests.Python tests for main.Test_func.test_equal.executor": "Run",
+    "Python tests.Python tests in main.py.executor": "Run",
     "Python.main.executor": "Run",
     "Python.sync_parse.executor": "Run",
     "Python.threade_parse.executor": "Run",
@@ -49,6 +59,92 @@
     "last_opened_file_path": "C:/Users/dvadi/PycharmProjects/PythonPro"
   }
 }]]></component>
+  <component name="RunManager" selected="Python tests.Python tests in main.py">
+    <configuration name="Python tests for main.TestStringMethod.test_isupper" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PythonPro" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dz6.Testint" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;main.TestStringMethod.test_isupper&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for main.TestStringMethod.test_split" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PythonPro" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dz6.Testint" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;main.TestStringMethod.test_split&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for main.Test_func" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PythonPro" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dz6.Testint" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;main.Test_func&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for main.Test_func.test_equal" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PythonPro" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dz6.Testint" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;main.Test_func.test_equal&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in main.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PythonPro" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dz6.Testint" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/dz6.Testint/main.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests in main.py" />
+        <item itemvalue="Python tests.Python tests for main.Test_func" />
+        <item itemvalue="Python tests.Python tests for main.Test_func.test_equal" />
+        <item itemvalue="Python tests.Python tests for main.TestStringMethod.test_isupper" />
+        <item itemvalue="Python tests.Python tests for main.TestStringMethod.test_split" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
