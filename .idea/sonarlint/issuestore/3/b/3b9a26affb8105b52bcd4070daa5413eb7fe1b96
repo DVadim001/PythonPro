@@ -1,0 +1,6 @@
+
+Hpython:S1172")Remove the unused function parameter "s".(ัํ๐ส8บก๔อ฿1
+lpython:S100"NRename method "romanToInt" to match the regular expression ^[a-z_][a-z0-9_]*$.(ัํ๐ส8บก๔อ฿1
+Gpython:S1481"(Remove the unused local variable "nums".(ณิ8บก๔อ฿1
+Upython:S1481"1Remove the unused local variable "romanian_nums".(ๅ๎ฑ–๙ÿÿÿÿ8บก๔อ฿1
+Kpython:S1481",Remove the unused local variable "romanian".(ื๗8บก๔อ฿1

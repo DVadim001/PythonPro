@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43dbaf0c-9e14-413a-b7c8-2d6db27ea3db" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/c/7cbbc61a3eb6ab599f313ed3093dc32058d4063d" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/c/7cbbc61a3eb6ab599f313ed3093dc32058d4063d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/8/d87a033d6e82abf7482002baad95d704f21346cb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/8/d87a033d6e82abf7482002baad95d704f21346cb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LeetCode/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dz6.Testint/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/dz6.Testint/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/works.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/works.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,25 +40,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Python tests.Doctests in main.executor": "Run",
-    "Python tests.Python tests for main.TestStringMethod.test_isupper.executor": "Run",
-    "Python tests.Python tests for main.TestStringMethod.test_split.executor": "Run",
-    "Python tests.Python tests for main.Test_func.executor": "Run",
-    "Python tests.Python tests for main.Test_func.test_equal.executor": "Run",
-    "Python tests.Python tests in main.py.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.sync_parse.executor": "Run",
-    "Python.threade_parse.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/dvadi/PycharmProjects/PythonPro"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Python tests.Doctests in main.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for main.TestStringMethod.test_isupper.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for main.TestStringMethod.test_split.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for main.Test_func.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for main.Test_func.test_equal.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in main.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sync_parse.executor&quot;: &quot;Run&quot;,
+    &quot;Python.threade_parse.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/dvadi/PycharmProjects/PythonPro&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python tests.Python tests in main.py">
     <configuration name="Python tests for main.TestStringMethod.test_isupper" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PythonPro" />
